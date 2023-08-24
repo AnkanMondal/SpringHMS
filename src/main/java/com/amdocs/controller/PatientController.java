@@ -8,7 +8,7 @@ public class PatientController {
 	
 	@GetMapping("/")
 	public String greetHello() {
-		return "Hello World";
+		return "Welcome to HMS";
 	}
 	
 }
